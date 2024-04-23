@@ -17,6 +17,9 @@
     <None Remove="Products\GetProducts\" />
     <None Remove="Products\GetProductById\" />
     <None Remove="Exceptions\" />
+    <None Remove="Products\GetProductByCategory\" />
+    <None Remove="Products\UpdateProduct\" />
+    <None Remove="Products\DeleteProduct\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -25,6 +28,9 @@
     <Folder Include="Products\GetProducts\" />
     <Folder Include="Products\GetProductById\" />
     <Folder Include="Exceptions\" />
+    <Folder Include="Products\GetProductByCategory\" />
+    <Folder Include="Products\UpdateProduct\" />
+    <Folder Include="Products\DeleteProduct\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\BuildingBlocks\BuildingBlocks\BuildingBlocks.csproj">
