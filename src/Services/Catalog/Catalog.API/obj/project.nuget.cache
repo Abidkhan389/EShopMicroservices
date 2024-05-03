@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "r3ULOky223K6D53nmaYgxyFFnOAPIkJWT5OJbUjmq0LYZVmCSTxyMgJz3WbOHMzpjmuipJU5BE0lM0syPj/v6Q==",
+  "dgSpecHash": "XHIv1iyJkYYe4rXTslZZaDmuTauXi/5qoNyNXjHcFTivov1XyjejmuR2Wpjr1l1XsMALBdN5CsVZhJj8OnlC2Q==",
   "success": true,
   "projectFilePath": "/Volumes/D/EShopMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
   "expectedPackageFiles": [
     "/Users/mac/.nuget/packages/carter/8.0.0/carter.8.0.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/fastexpressioncompiler/4.1.0/fastexpressioncompiler.4.1.0.nupkg.sha512",
-    "/Users/mac/.nuget/packages/fluentvalidation/11.8.0/fluentvalidation.11.8.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/fluentvalidation/11.9.1/fluentvalidation.11.9.1.nupkg.sha512",
+    "/Users/mac/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.1/fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
     "/Users/mac/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/mac/.nuget/packages/jasperfx.codegeneration/3.5.0/jasperfx.codegeneration.3.5.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/jasperfx.core/1.5.1/jasperfx.core.1.5.1.nupkg.sha512",

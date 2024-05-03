@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VMjsT7spgiYVi9F6Z5LgMjBnJYVSzX3PzQ8h4MpHxKqmutS004q4JBRv4TY7Cll/xPXv51Ma0m9Ovnvtf2+XKQ==",
+  "dgSpecHash": "7Q0g6EBbD1z29ue/bvUXI9EGFEMDHCoRe7s/8WVCtTYKjxebEHOaEN7lIWOGkNWCrw0H94pJ4/bOwYZxClRFvg==",
   "success": true,
   "projectFilePath": "/Volumes/D/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
   "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/fluentvalidation/11.9.1/fluentvalidation.11.9.1.nupkg.sha512",
+    "/Users/mac/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.1/fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
     "/Users/mac/.nuget/packages/mapster/7.4.0/mapster.7.4.0.nupkg.sha512",
     "/Users/mac/.nuget/packages/mapster.core/1.2.1/mapster.core.1.2.1.nupkg.sha512",
     "/Users/mac/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
