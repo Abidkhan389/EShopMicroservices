@@ -24,16 +24,13 @@ internal class UpdateProductCommandHandler
     : ICommandHandler<UpdateProductCommand, UpdateProductResult>
 {
     private readonly IDocumentSession _session;
-    private readonly ILogger _logger;
 
     public UpdateProductCommandHandler(IDocumentSession session, ILogger<UpdateProductCommandHandler> logger)
     {
         _session = session;
-        _logger = logger;
     }
     public async Task<UpdateProductResult> Handle(UpdateProductCommand command, CancellationToken cancellationToken)
     {
-        _logger.LogInformation("UpdateProductHandler.Handle called with {@Command}", command);
 
         var product = await _session.LoadAsync<Product>(command.Id, cancellationToken);
 

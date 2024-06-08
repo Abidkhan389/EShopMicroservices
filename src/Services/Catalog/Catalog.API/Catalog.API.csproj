@@ -20,6 +20,7 @@
     <None Remove="Products\GetProductByCategory\" />
     <None Remove="Products\UpdateProduct\" />
     <None Remove="Products\DeleteProduct\" />
+    <None Remove="Data\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -31,6 +32,7 @@
     <Folder Include="Products\GetProductByCategory\" />
     <Folder Include="Products\UpdateProduct\" />
     <Folder Include="Products\DeleteProduct\" />
+    <Folder Include="Data\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\BuildingBlocks\BuildingBlocks\BuildingBlocks.csproj">
@@ -40,5 +42,7 @@
   <ItemGroup>
     <PackageReference Include="Carter" Version="8.0.0" />
     <PackageReference Include="Marten" Version="7.5.0" />
+    <PackageReference Include="AspNetCore.HealthChecks.NpgSql" Version="8.0.1" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="8.0.1" />
   </ItemGroup>
 </Project>

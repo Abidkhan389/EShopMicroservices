@@ -1,24 +1,18 @@
-﻿using Microsoft.Extensions.Logging;
-
-namespace Catalog.API.Products.GetProducts;
-public record GetProductsQuery() : IQuery<GetProductsResult>;
+﻿namespace Catalog.API.Products.GetProducts;
+public record GetProductsQuery(int? PageNumber = 1, int? PageSize = 10) : IQuery<GetProductsResult>;
 public record GetProductsResult(IEnumerable<Product> Products);
 internal class GetProductsQueryHandler : IQueryHandler<GetProductsQuery, GetProductsResult>
 {
     private readonly IDocumentSession _session;
-    private readonly ILogger _logger;
 
-    public GetProductsQueryHandler(IDocumentSession session, ILogger<GetProductsQueryHandler> logger)
+    public GetProductsQueryHandler(IDocumentSession session)
     {
         _session = session;
-        _logger = logger;
     }
     public async Task<GetProductsResult> Handle(GetProductsQuery query, CancellationToken cancellationToken)
     {
-        _logger.LogInformation("GetProductsQueryHandler.Handle called with {@Query}", query);
-
-        var products = await _session.Query<Product>().ToListAsync(cancellationToken);
-
+        var products = await _session.Query<Product>()
+            .ToPagedListAsync(query.PageNumber ?? 1, query.PageSize ?? 10, cancellationToken);
         return new GetProductsResult(products);
     }
 }
