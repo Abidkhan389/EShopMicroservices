@@ -11,3 +11,16 @@
 /Volumes/D/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/refint/BuildingBlocks.dll
 /Volumes/D/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.pdb
 /Volumes/D/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/ref/BuildingBlocks.dll
+/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.deps.json
+/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.dll
+/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.pdb
+/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.csproj.AssemblyReference.cache
+/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.AssemblyInfoInputs.cache
+/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.AssemblyInfo.cs
+/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.csproj.CoreCompileInputs.cache
+/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.sourcelink.json
+/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.dll
+/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/refint/BuildingBlocks.dll
+/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.pdb
+/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/Debug/net8.0/ref/BuildingBlocks.dll

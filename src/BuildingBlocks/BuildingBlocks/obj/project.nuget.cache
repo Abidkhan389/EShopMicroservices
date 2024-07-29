@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Q0g6EBbD1z29ue/bvUXI9EGFEMDHCoRe7s/8WVCtTYKjxebEHOaEN7lIWOGkNWCrw0H94pJ4/bOwYZxClRFvg==",
+  "dgSpecHash": "EbFAhnKMLdFeXXtkPIa9FZcGxAuIV9mlKkdUNL9KJ8srnOE6/hyX8rxuLiJ7rdxn6fGK1oOcEzFYR8K1aNxUlg==",
   "success": true,
-  "projectFilePath": "/Volumes/D/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
+  "projectFilePath": "/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
   "expectedPackageFiles": [
     "/Users/mac/.nuget/packages/fluentvalidation/11.9.1/fluentvalidation.11.9.1.nupkg.sha512",
     "/Users/mac/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

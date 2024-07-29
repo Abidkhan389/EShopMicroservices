@@ -9,7 +9,7 @@ public class StoreBasketCommandValidator : AbstractValidator<StoreBasketCommand>
         RuleFor(x => x.Cart.UserName).NotEmpty().WithMessage("UserName is required");
     }
 }
-public class StoreBasketCommandHandler
+public class StoreBasketCommandHandler()
     : ICommandHandler<StoreBasketCommand, StoreBasketResult>
 {
     //public StoreBasketCommandHandler(IBasketRepository repository)

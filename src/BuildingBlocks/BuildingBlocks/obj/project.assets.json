@@ -289,11 +289,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/D/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
+      "projectUniqueName": "/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
       "projectName": "BuildingBlocks",
-      "projectPath": "/Volumes/D/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
+      "projectPath": "/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Volumes/D/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/",
+      "outputPath": "/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/BuildingBlocks/BuildingBlocks/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"
