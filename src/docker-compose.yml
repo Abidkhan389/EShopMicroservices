@@ -5,10 +5,15 @@ services:
     image: postgres
 
   basketdb:
+<<<<<<< Updated upstream
     image:postgres
     
   distributedcache:
     image: redis
+=======
+    image: postgres
+
+>>>>>>> Stashed changes
   catalog.api:
     image: ${DOCKER_REGISTRY-}catalogapi
     build:

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jlnSZ8ia/MopWfc3ZIXQCeEc+oQ6atd+VHtbn2ar6jNvj6FAIaATwGZ06gZAj1rjxvbg01GnLCSEibHHYClGSQ==",
+  "dgSpecHash": "WreIpWWn51he+1vCFb4xBoy6t29L6zwQ+45HI68BQXPKkz+PUYlwwMrp3YePVRTBgzcgMFRFzQIaX4PdjbmO5Q==",
   "success": true,
-  "projectFilePath": "/Volumes/D/EShopMicroServicesForVSCode/EShopMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
+  "projectFilePath": "/Volumes/D/EShopMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
   "expectedPackageFiles": [
     "/Users/mac/.nuget/packages/aspnetcore.healthchecks.npgsql/8.0.1/aspnetcore.healthchecks.npgsql.8.0.1.nupkg.sha512",
     "/Users/mac/.nuget/packages/aspnetcore.healthchecks.ui.client/8.0.1/aspnetcore.healthchecks.ui.client.8.0.1.nupkg.sha512",
